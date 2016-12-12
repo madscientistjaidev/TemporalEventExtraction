@@ -1,0 +1,8 @@
+Adding annotator tokenize
+TokenizerAnnotator: No tokenizer type provided. Defaulting to PTBTokenizer.
+Adding annotator ssplit
+edu.stanford.nlp.pipeline.AnnotatorImplementations:
+
+Ready to process: 1 files, skipped 0, total 1
+Processing file /home/ankush/git/Information-Retrieval--Machine-Learning/code/temp ... writing to /home/ankush/git/Information-Retrieval--Machine-Learning/code/temp.xml {
+  Annotating file /home/ankush/git/Information-Retrieval--Machine-Learning/code/temp 
