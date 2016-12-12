@@ -2,10 +2,12 @@
 Temporal Expression and Event Extraction using Conditional Random Fields
 
 This is a project jointly developed by Ankush Israney and I for our Machine Learning course.
-This is a mirror of the original repository at https://github.com/ankush91/Information-Retrieval--Machine-Learning
-The readme from that repository follows.
 
-Machine Learning Techniques for Temporal Information Extraction and Normalization
+This repository is an outline for our project. The code will not work as is, since the large files in the CoreNLP and NER toolkits cannot be pushed. The working version of the project is available at https://www.dropbox.com/s/6uylvx80ece0zfr/Israney%2C%20Ramakrishna%20-%20Temporal%20Expression%20and%20Event%20Extraction.zip?dl=0
+
+This repository is a mirror of https://github.com/ankush91/Information-Retrieval--Machine-Learning
+
+The readme from that repository follows.
 
 *********************READ ME*******************
 
